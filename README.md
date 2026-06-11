@@ -1,5 +1,5 @@
 # real-time-object-tracking-meanShift-camShift
-🚀 Real-Time Object Tracking using Mean Shift & CamShift
+#🚀 Real-Time Object Tracking using Mean Shift & CamShift
 
 This project demonstrates real-time object tracking using Mean Shift and CamShift algorithms in computer vision.
 
@@ -7,7 +7,7 @@ The system tracks a selected object (football) across video frames using color-b
 
 🔍 Key Features
 
-🎯 Object tracking using Mean Shift algorithm
+#🎯 Object tracking using Mean Shift algorithm
 🔄 Adaptive tracking with CamShift (scale + rotation handling)
 🎨 HSV color histogram-based tracking
 📹 Real-time video processing using OpenCV
