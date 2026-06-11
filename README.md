@@ -1,10 +1,6 @@
 # real-time-object-tracking-meanShift-camShift
 # 🚀 Real-Time Object Tracking using Mean Shift & CamShift
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
@@ -55,6 +51,36 @@ The system tracks a selected object (football) across video frames using **color
 
 ---
 
-## 📂 Project Structure
+
+## 🚀 Applications
+
+- 🛡️ Surveillance systems  
+- 🚗 Autonomous vehicles  
+- ✋ Gesture recognition  
+- ⚽ Sports analytics  
+
+---
+
+## 📚 Key Concepts
+
+- Mean Shift (Mode-seeking algorithm)
+- CamShift (Adaptive Mean Shift)
+- Histogram Back Projection
+- Object Tracking in Computer Vision
+
+---
+
+## 🙌 Acknowledgements
+
+- OpenCV Documentation  
+- Research by Comaniciu & Meer (Mean Shift Algorithm)
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
 
 
